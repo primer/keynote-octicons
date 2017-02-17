@@ -2,9 +2,7 @@
 
 > This repository contains templates that contain the latest octicons for Keynote.app
 
-The icons are pre-colored in the keynote file, here are the versions we offer.
-
-* [White Icons](./lib/octicons-white.key)
+The icons are pre-colored as black & white in the [keynote file](./lib/octicons-template.key).
 
 ## Usage
 
